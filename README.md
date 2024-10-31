@@ -1,2 +1,2 @@
-# Claw and Paw test 
+# Claw and Paw 
  claw machine website
